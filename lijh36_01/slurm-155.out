@@ -1,0 +1,3 @@
+job start time is Wed Jun 24 10:19:05 CST 2020
+[31mFATAL:  [0m could not open image /var/lib/lico/core/container/letrain-cpu.image: failed to retrieve path for /var/lib/lico/core/container/letrain-cpu.image: lstat /var/lib/lico/core: permission denied
+job end time is Wed Jun 24 10:19:05 CST 2020

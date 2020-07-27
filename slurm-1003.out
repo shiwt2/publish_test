@@ -1,0 +1,4 @@
+[33mWARNING:[0m skipping mount of /root/test1: permission denied
+[33mWARNING:[0m skipping mount of /root/test2: permission denied
+[31mFATAL:  [0m container creation failed: mount ->/root/test1 error: can't remount /root/test1: permission denied
+job end time is Thu Jul 23 18:08:21 CST 2020

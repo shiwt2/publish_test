@@ -1,0 +1,11 @@
+job start time is Sat Jul 25 14:59:41 CST 2020
+Traceback (most recent call last):
+  File "/usr/bin/lico-dl-run", line 11, in <module>
+    load_entry_point('lico-ai-scripts==1.0.0', 'console_scripts', 'lico-dl-run')()
+  File "build/bdist.linux-x86_64/egg/lico/ai/scripts/host/main.py", line 40, in run_deep_learning
+  File "/usr/lib/python3.6/site-packages/docopt_subcommands/subcommands.py", line 139, in __call__
+    return handler(common_config, command_config)
+  File "build/bdist.linux-x86_64/egg/lico/ai/scripts/host/main.py", line 199, in run_tensorflow
+  File "build/bdist.linux-x86_64/egg/lico/ai/scripts/host/main.py", line 65, in base_tensorflow
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+job end time is Sat Jul 25 14:59:41 CST 2020
